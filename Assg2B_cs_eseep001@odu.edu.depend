@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1664034869 source:c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	<iomanip>
+	"foxes.h"
+	"grid.h"
+	"rabbits.h"
+	"util.h"
+
+1664042010 c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\foxes.h
+
+1664043812 c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\grid.h
+
+1664042079 c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\rabbits.h
+
+1664044023 c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\util.h
+
+1664043599 source:c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\util.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	<iomanip>
+	"util.h"
+
+1664042079 source:c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\rabbits.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	<iomanip>
+	"rabbits.h"
+	"util.h"
+	"grid.h"
+
+1664045028 source:c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\foxes.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ostream>
+	<windows.h>
+	<fstream>
+	"foxes.h"
+	"util.h"
+	"grid.h"
+
+1664043812 source:c:\users\emily\documents\assg2b_cs_eseep001@odu.edu\grid.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ostream>
+	<windows.h>
+	<math.h>
+	"grid.h"
+	"util.h"
+	"foxes.h"
+	"rabbits.h"
+
